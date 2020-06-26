@@ -1,0 +1,1 @@
+https://www.tensorflow.org/extras/tensorflow-whitepaper2015.pdf
